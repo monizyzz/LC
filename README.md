@@ -1,1 +1,3 @@
-# LC
+# Computational Logic
+
+Computational Logic Projects
